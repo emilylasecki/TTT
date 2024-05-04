@@ -1,0 +1,3 @@
+// my IDE won't let me display the Test.txt file 
+// (file written to by FileManager.java and UserManagement.java )
+// regardless, the code should create a new file of name Text.txt and i/o should work with Test.txt
